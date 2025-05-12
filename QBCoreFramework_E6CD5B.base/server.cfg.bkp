@@ -1,0 +1,93 @@
+exec permissions.cfg
+#   ____  ____   _____
+#  / __ \|  _ \ / ____|
+# | |  | | |_) | |     ___  _ __ ___
+# | |  | |  _ <| |    / _ \| '__/ _ \
+# | |__| | |_) | |___| (_) | | |  __/
+#  \___\_\____/ \_____\___/|_|  \___|
+
+## FiveM Documentation
+## https://aka.cfx.re/server-commands
+
+## QBCore Documentation
+## https://docs.qbcore.org
+
+##SCRIPTHOOK
+
+sv_scriptHookAllowed 0
+
+## You CAN edit the following:
+endpoint_add_tcp "0.0.0.0:30120"
+endpoint_add_udp "0.0.0.0:30120"
+sv_maxclients 8
+set steam_webApiKey "none"
+sets tags "default, deployer, qbcore, qb-core"
+
+## You MAY edit the following:
+sv_licenseKey "cfxk_1BRPnjbrxK6j8AxJaZqRx_4TxBuc"
+sv_hostname "Shokk"
+sets sv_projectName "Shokk"
+sets sv_projectDesc "Bem vindo a seita! Aqui cultuamos drift e garotas fofas de anime."
+sets locale "pt-BR"
+load_server_icon anime.png
+sv_enforceGameBuild 3407 #DLC Agents of Sabotage
+set resources_useSystemChat true
+set mysql_connection_string "mysql://root@localhost/QBCoreFramework_E6CD5B?charset=utf8mb4"
+
+# Voice config
+setr voice_useNativeAudio true
+setr voice_useSendingRangeOnly true
+setr voice_defaultCycle "GRAVE"
+setr voice_defaultVolume 0.3
+setr voice_enableRadioAnim 1
+setr voice_syncData 1
+
+# QBCore locale config
+setr qb_locale "pt-br"
+
+# QBCore UseTarget
+setr UseTarget false
+
+# These resources will start by default.
+ensure [antibackdoor]
+ensure [libs]
+ensure mapmanager
+ensure chat
+ensure spawnmanager
+ensure sessionmanager
+ensure basic-gamemode
+ensure hardcap
+ensure baseevents
+
+# QBCore & Extra stuff
+ensure qb-core
+ensure [qb]
+ensure [standalone]
+ensure [voice]
+ensure [defaultmaps]
+
+# MODS
+ensure [menus]
+ensure [carros]
+ensure [mapas]
+ensure [garagem]
+ensure [tunning]
+ensure [pets]
+ensure [sons]
+ensure [jim]
+ensure [roupas]
+ensure [diversos]
+
+## LINGUAGEM
+setr illenium-appearance:locale "pt-BR"
+
+## Permissions ##
+add_ace group.admin command allow # allow all commands
+# Resources
+add_ace resource.qb-core command allow # Allow qb-core to execute commands
+# Gods
+add_ace qbcore.god command allow # Allow all commands
+# Inheritance
+add_principal qbcore.god group.admin # Allow gods access to the main admin group used to get all default permissions
+add_principal qbcore.god qbcore.admin # Allow gods access to admin commands
+add_principal qbcore.admin qbcore.mod # Allow admins access to mod commands
