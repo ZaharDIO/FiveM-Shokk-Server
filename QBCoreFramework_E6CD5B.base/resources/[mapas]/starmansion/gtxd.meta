@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CMapParentTxds>
+  <txdRelationships>
+		<Item>
+			<parent>starkmansion_interior2</parent>
+			<child>starkmansion_interior</child>
+		</Item>
+		<Item>
+			<parent>starkmansion_exterior2</parent>
+			<child>starkmansion_exterior</child>
+		</Item>
+  </txdRelationships>
+</CMapParentTxds>
