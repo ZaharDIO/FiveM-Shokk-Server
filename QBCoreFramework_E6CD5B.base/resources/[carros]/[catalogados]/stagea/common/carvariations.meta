@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>stagea</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Grey -->
+            4
+            4
+            0
+            156
+			0
+          </indices>
+		  </Item>
+		  <Item>
+          <indices content="char_array"> <!-- DarkBlue -->
+            62
+            62
+            0
+            156
+			0
+          </indices>
+		  </Item>
+		  <Item>
+          <indices content="char_array"> <!-- BlueGreen  -->
+            54
+            54
+            0
+            156
+			0
+          </indices>
+        </Item>
+		  <Item>
+          <indices content="char_array"> <!-- DarkGreen  -->
+            51
+            51
+            0
+            156
+			0
+          </indices>
+        </Item>
+		<Item>
+          <indices content="char_array"> <!-- Red -->
+            150
+            150
+            0
+            156
+			0
+          </indices>
+		  </Item>
+		  <Item>
+          <indices content="char_array"> <!-- Withe -->
+            111
+            111
+            0
+            156
+			0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>734_stagea_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="720" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
