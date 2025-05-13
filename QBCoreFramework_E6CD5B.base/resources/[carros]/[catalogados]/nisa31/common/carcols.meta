@@ -1,0 +1,3931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal>
+	<Kits>
+		<Item>
+			<kitName>8831_nisa31_modkit</kitName>
+			<id value="8831" />
+			<kitType>MKT_SPECIAL</kitType>
+			<visibleMods>
+				<!-- 前保险杠，素车款 -->
+				<Item>
+					<modelName>nisa31_bumper_f1</modelName>
+					<modShopLabel>nisa31_bumper_f1</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_t</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 后保险杠，素车款 -->
+				<Item>
+					<modelName>nisa31_bumper_r1</modelName>
+					<modShopLabel>nisa31_bumper_r1</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_u</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 前保险杠，D1GP 版 -->
+				<Item>
+					<modelName>nisa31_bumper_f2</modelName>
+					<modShopLabel>nisa31_bumper_f2</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_t</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 后保险杠，D1GP 版 -->
+				<Item>
+					<modelName>nisa31_bumper_r2</modelName>
+					<modShopLabel>nisa31_bumper_r2</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_u</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 前保险杠，素车款 2 -->
+				<Item>
+					<modelName>nisa31_bumper_f3</modelName>
+					<modShopLabel>nisa31_bumper_f3</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_t</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 后保险杠，素车款 2 -->
+				<Item>
+					<modelName>nisa31_bumper_r3</modelName>
+					<modShopLabel>nisa31_bumper_r3</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_u</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 前保险杠，D1GP 版 2 -->
+				<Item>
+					<modelName>nisa31_bumper_f4</modelName>
+					<modShopLabel>nisa31_bumper_f4</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_t</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 后保险杠，D1GP 版 2 -->
+				<Item>
+					<modelName>nisa31_bumper_r4</modelName>
+					<modShopLabel>nisa31_bumper_r4</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_u</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 前保险杠，宽体款 -->
+				<Item>
+					<modelName>nisa31_bumper_f5</modelName>
+					<modShopLabel>nisa31_bumper_f5</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_t</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 后保险杠，宽体款 -->
+				<Item>
+					<modelName>nisa31_bumper_r5</modelName>
+					<modShopLabel>nisa31_bumper_r5</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_u</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 前保险杠，素车款 3 -->
+				<Item>
+					<modelName>nisa31_bumper_f6</modelName>
+					<modShopLabel>nisa31_bumper_f6</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_t</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 后保险杠，素车款 6 -->
+				<Item>
+					<modelName>nisa31_bumper_r6</modelName>
+					<modShopLabel>nisa31_bumper_r6</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_u</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 前保险杠，修改款 7 -->
+				<Item>
+					<modelName>nisa31_bumper_f7</modelName>
+					<modShopLabel>nisa31_bumper_f7</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_t</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 后保险杠，修改款 7 -->
+				<Item>
+					<modelName>nisa31_bumper_r7</modelName>
+					<modShopLabel>nisa31_bumper_r7</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_u</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 前保险杠，URAS 款 7 -->
+				<Item>
+					<modelName>nisa31_bumper_f8</modelName>
+					<modShopLabel>nisa31_bumper_f8</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_t</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 前保险杠，Diana -->
+				<Item>
+					<modelName>nisa31_bumper_f9</modelName>
+					<modShopLabel>nisa31_bumper_f9</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_t</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 后保险杠，Diana -->
+				<Item>
+					<modelName>nisa31_bumper_r8</modelName>
+					<modShopLabel>nisa31_bumper_r8</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_u</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 后保险杠，新改装 1 -->
+				<Item>
+					<modelName>nisa31_bumper_r9</modelName>
+					<modShopLabel>nisa31_bumper_r9</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_u</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 前保险杠，新改装 2 -->
+				<Item>
+					<modelName>nisa31_bumper_f10</modelName>
+					<modShopLabel>nisa31_bumper_f10</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_t</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 后保险杠，新改装 2 -->
+				<Item>
+					<modelName>nisa31_bumper_r10</modelName>
+					<modShopLabel>nisa31_bumper_r10</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_u</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 前保险杠，新改装 3 -->
+				<Item>
+					<modelName>nisa31_bumper_f11</modelName>
+					<modShopLabel>nisa31_bumper_f11</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_t</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 后保险杠，新改装 3 -->
+				<Item>
+					<modelName>nisa31_bumper_r11</modelName>
+					<modShopLabel>nisa31_bumper_r11</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_u</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 前保险杠，新改装 4 -->
+				<Item>
+					<modelName>nisa31_bumper_f12</modelName>
+					<modShopLabel>nisa31_bumper_f12</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_t</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 后保险杠，新改装 4 -->
+				<Item>
+					<modelName>nisa31_bumper_r12</modelName>
+					<modShopLabel>nisa31_bumper_r12</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_u</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 前保险杠，新改装 5 -->
+				<Item>
+					<modelName>nisa31_bumper_f13</modelName>
+					<modShopLabel>nisa31_bumper_f13</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_t</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 后保险杠，新改装 5 -->
+				<Item>
+					<modelName>nisa31_bumper_r13</modelName>
+					<modShopLabel>nisa31_bumper_r13</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_u</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 前保险杠，新改装 6 -->
+				<Item>
+					<modelName>nisa31_bumper_f14</modelName>
+					<modShopLabel>nisa31_bumper_f14</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_t</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 前保险杠，新改装 7 -->
+				<Item>
+					<modelName>nisa31_bumper_f15</modelName>
+					<modShopLabel>nisa31_bumper_f15</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_t</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 原厂前唇 -->
+				<Item>
+					<modelName>nisa31_lips_front_04</modelName>
+					<modShopLabel>nisa31_lips_front_04</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_BUMPER_F</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_lips_front_05</modelName>
+					<modShopLabel>nisa31_lips_front_05</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_BUMPER_F</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_lips_front_06</modelName>
+					<modShopLabel>nisa31_lips_front_06</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_BUMPER_F</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 加长原厂前唇 -->
+				<Item>
+					<modelName>nisa31_bumper_f11</modelName>
+					<modShopLabel>nisa31_bumper_f11</modShopLabel>
+					<linkedModels>
+						<Item>nisa31_lips_front_01</Item>
+					</linkedModels>
+					<turnOffBones />
+					<type>VMT_BUMPER_F</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_bumper_f11</modelName>
+					<modShopLabel>nisa31_bumper_f11</modShopLabel>
+					<linkedModels>
+						<Item>nisa31_lips_front_02</Item>
+					</linkedModels>
+					<turnOffBones />
+					<type>VMT_BUMPER_F</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_bumper_f11</modelName>
+					<modShopLabel>nisa31_bumper_f11</modShopLabel>
+					<linkedModels>
+						<Item>nisa31_lips_front_03</Item>
+					</linkedModels>
+					<turnOffBones />
+					<type>VMT_BUMPER_F</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 后唇 -->
+				<Item>
+					<modelName>nisa31_lips_rear_01</modelName>
+					<modShopLabel>nisa31_lips_rear_01</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_BUMPER_R</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 移除前保险杠 -->
+				<Item>
+					<modelName>nisa31_placeholder_1</modelName>
+					<modShopLabel>nisa31_placeholder_1</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_t</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 移除后保险杠 -->
+				<Item>
+					<modelName>nisa31_placeholder_1</modelName>
+					<modShopLabel>nisa31_placeholder_1</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_u</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 车尾空气悬挂 -->
+				<Item>
+					<modelName>nisa31_air_suspension_1</modelName>
+					<modShopLabel>nisa31_air_suspension_1</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_INTERIOR1</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 排气管，配宽体款后保险杠 -->
+				<Item>
+					<modelName>nisa31_exh_1</modelName>
+					<modShopLabel>nisa31_exh_1</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_l</Item>
+						<Item>exhaust</Item>
+						<Item>exhaust_2</Item>
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 排气管 2，配宽体款后保险杠 -->
+				<Item>
+					<modelName>nisa31_exh_2</modelName>
+					<modShopLabel>nisa31_exh_2</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_l</Item>
+						<Item>exhaust</Item>
+						<Item>exhaust_2</Item>
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 排气管 3，配素车款后保险杠 3 -->
+				<Item>
+					<modelName>nisa31_exh_3</modelName>
+					<modShopLabel>nisa31_exh_3</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_l</Item>
+						<Item>exhaust</Item>
+						<Item>exhaust_2</Item>
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 排气管 4，配原车后保险杠 -->
+				<Item>
+					<modelName>nisa31_exh_4</modelName>
+					<modShopLabel>nisa31_exh_4</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_l</Item>
+						<Item>exhaust</Item>
+						<Item>exhaust_2</Item>
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 排气管 5，配原车后保险杠 -->
+				<Item>
+					<modelName>nisa31_exh_5</modelName>
+					<modShopLabel>nisa31_exh_5</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_l</Item>
+						<Item>exhaust</Item>
+						<Item>exhaust_2</Item>
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 排气管 6，配 Diana 后保险杠 -->
+				<Item>
+					<modelName>nisa31_exh_6</modelName>
+					<modShopLabel>nisa31_exh_6</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_l</Item>
+						<Item>exhaust</Item>
+						<Item>exhaust_2</Item>
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 排气管 7，配 Diana 后保险杠 -->
+				<Item>
+					<modelName>nisa31_exh_7</modelName>
+					<modShopLabel>nisa31_exh_7</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_l</Item>
+						<Item>exhaust</Item>
+						<Item>exhaust_2</Item>
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 排气管 8 -->
+				<Item>
+					<modelName>nisa31_exh_8</modelName>
+					<modShopLabel>nisa31_exh_8</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_l</Item>
+						<Item>exhaust</Item>
+						<Item>exhaust_2</Item>
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 排气管 9 -->
+				<Item>
+					<modelName>nisa31_exh_9</modelName>
+					<modShopLabel>nisa31_exh_9</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_l</Item>
+						<Item>exhaust</Item>
+						<Item>exhaust_2</Item>
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 排气管 10 -->
+				<Item>
+					<modelName>nisa31_exh_10</modelName>
+					<modShopLabel>nisa31_exh_10</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_l</Item>
+						<Item>exhaust</Item>
+						<Item>exhaust_2</Item>
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 排气管 11 -->
+				<Item>
+					<modelName>nisa31_exh_11</modelName>
+					<modShopLabel>nisa31_exh_11</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_l</Item>
+						<Item>exhaust</Item>
+						<Item>exhaust_2</Item>
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 排气管 12 -->
+				<Item>
+					<modelName>nisa31_exh_12</modelName>
+					<modShopLabel>nisa31_exh_12</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_l</Item>
+						<Item>exhaust</Item>
+						<Item>exhaust_2</Item>
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 涡轮表 -->
+				<Item>
+					<modelName>nisa31_gauge_1</modelName>
+					<modShopLabel>nisa31_gauge_1</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_INTERIOR4</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+        		<!-- 涡轮表 + 水壶架 -->
+				<Item>
+					<modelName>nisa31_gauge_1</modelName>
+					<modShopLabel>nisa31_gauge_1</modShopLabel>
+					<linkedModels>
+						<Item>nisa31_dash_parts_1</Item>
+					</linkedModels>
+					<turnOffBones />
+					<type>VMT_INTERIOR4</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 手动挡 档杆 -->
+				<Item>
+					<modelName>nisa31_gear_knob_1</modelName>
+					<modShopLabel>nisa31_gear_knob_1</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_h</Item>
+					</turnOffBones>
+					<type>VMT_KNOB</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 液压手刹 -->
+				<Item>
+					<modelName>nisa31_handbrake_1</modelName>
+					<modShopLabel>nisa31_handbrake_1</modShopLabel>
+					<linkedModels>
+						<Item>misc_i</Item>
+					</linkedModels>
+					<turnOffBones />
+					<type>VMT_HYDRO</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 狂三抱枕 -->
+				<Item>
+					<modelName>nisa31_pillow_1</modelName>
+					<modShopLabel>nisa31_pillow_1</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_INTERIOR2</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- R18 抱枕 -->
+				<Item>
+					<modelName>nisa31_pillow_2</modelName>
+					<modShopLabel>nisa31_pillow_2</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_INTERIOR2</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- R18 抱枕 - 正面 -->
+				<Item>
+					<modelName>nisa31_pillow_3</modelName>
+					<modShopLabel>nisa31_pillow_3</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_INTERIOR2</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 索米抱枕 - 正常向 -->
+				<Item>
+					<modelName>nisa31_pillow_4</modelName>
+					<modShopLabel>nisa31_pillow_4</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_INTERIOR2</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 索米抱枕 - 成人向 -->
+				<Item>
+					<modelName>nisa31_pillow_5</modelName>
+					<modShopLabel>nisa31_pillow_5</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_INTERIOR2</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 抱枕 -->
+				<Item>
+					<modelName>nisa31_pillow_6</modelName>
+					<modShopLabel>nisa31_pillow_6</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_INTERIOR2</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 抱枕 -->
+				<Item>
+					<modelName>nisa31_pillow_7</modelName>
+					<modShopLabel>nisa31_pillow_7</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_INTERIOR2</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 优香抱枕 正面 -->
+				<Item>
+					<modelName>nisa31_pillow_8</modelName>
+					<modShopLabel>nisa31_pillow_8</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_INTERIOR2</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 优香抱枕 背面 -->
+				<Item>
+					<modelName>nisa31_pillow_9</modelName>
+					<modShopLabel>nisa31_pillow_9</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_INTERIOR2</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 配套原装保险杠前车牌 -->
+				<Item>
+					<modelName>nisa31_plate_1_front</modelName>
+					<modShopLabel>nisa31_plate_1_front</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 配套原装保险杠前后车牌 -->
+				<Item>
+					<modelName>nisa31_plate_1_front_rear</modelName>
+					<modShopLabel>nisa31_plate_1_front_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 配套原装保险杠后车牌 -->
+				<Item>
+					<modelName>nisa31_plate_1_rear</modelName>
+					<modShopLabel>nisa31_plate_1_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 配套素车保险杠前车牌 -->
+				<Item>
+					<modelName>nisa31_plate_2_front</modelName>
+					<modShopLabel>nisa31_plate_2_front</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 配套素车保险杠前后车牌 -->
+				<Item>
+					<modelName>nisa31_plate_2_front_rear</modelName>
+					<modShopLabel>nisa31_plate_2_front_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 配套素车保险杠后车牌 -->
+				<Item>
+					<modelName>nisa31_plate_2_rear</modelName>
+					<modShopLabel>nisa31_plate_2_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 配套 D1GP 保险杠前车牌 -->
+				<Item>
+					<modelName>nisa31_plate_3_front</modelName>
+					<modShopLabel>nisa31_plate_3_front</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 配套 D1GP 保险杠前后车牌 -->
+				<Item>
+					<modelName>nisa31_plate_3_front_rear</modelName>
+					<modShopLabel>nisa31_plate_3_front_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 配套 D1GP 保险杠后车牌 -->
+				<Item>
+					<modelName>nisa31_plate_3_rear</modelName>
+					<modShopLabel>nisa31_plate_3_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 配套 D1GP 改款保险杠前车牌 -->
+				<Item>
+					<modelName>nisa31_plate_4_front</modelName>
+					<modShopLabel>nisa31_plate_4_front</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 配套 D1GP 改款保险杠前后车牌 -->
+				<Item>
+					<modelName>nisa31_plate_4_front_rear</modelName>
+					<modShopLabel>nisa31_plate_4_front_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 配套 D1GP 改款保险杠后车牌 -->
+				<Item>
+					<modelName>nisa31_plate_4_rear</modelName>
+					<modShopLabel>nisa31_plate_4_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 配套 Autech 款保险杠前车牌 -->
+				<Item>
+					<modelName>nisa31_plate_5_front</modelName>
+					<modShopLabel>nisa31_plate_5_front</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 配套 Autech 款保险杠前后车牌 -->
+				<Item>
+					<modelName>nisa31_plate_5_front_rear</modelName>
+					<modShopLabel>nisa31_plate_5_front_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 配套 Autech 款保险杠后车牌 -->
+				<Item>
+					<modelName>nisa31_plate_5_rear</modelName>
+					<modShopLabel>nisa31_plate_5_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 配套 Diana 款保险杠前车牌 -->
+				<Item>
+					<modelName>nisa31_plate_6_front</modelName>
+					<modShopLabel>nisa31_plate_6_front</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 配套 Diana 款保险杠前后车牌 -->
+				<Item>
+					<modelName>nisa31_plate_6_front_rear</modelName>
+					<modShopLabel>nisa31_plate_6_front_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 配套 Diana 款保险杠后车牌 -->
+				<Item>
+					<modelName>nisa31_plate_6_rear</modelName>
+					<modShopLabel>nisa31_plate_6_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 配套原装保险杠前车牌 -->
+				<Item>
+					<modelName>nisa31_plate_7_front</modelName>
+					<modShopLabel>nisa31_plate_7_front</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 配套原装保险杠前后车牌 -->
+				<Item>
+					<modelName>nisa31_plate_7_front_rear</modelName>
+					<modShopLabel>nisa31_plate_7_front_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 配套原装保险杠后车牌 -->
+				<Item>
+					<modelName>nisa31_plate_7_rear</modelName>
+					<modShopLabel>nisa31_plate_7_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装前车牌 1 -->
+				<Item>
+					<modelName>nisa31_plate_8_front</modelName>
+					<modShopLabel>nisa31_plate_8_front</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装前后车牌 1 -->
+				<Item>
+					<modelName>nisa31_plate_8_front_rear</modelName>
+					<modShopLabel>nisa31_plate_8_front_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装后车牌 1 -->
+				<Item>
+					<modelName>nisa31_plate_8_rear</modelName>
+					<modShopLabel>nisa31_plate_8_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装前车牌 2 -->
+				<Item>
+					<modelName>nisa31_plate_9_front</modelName>
+					<modShopLabel>nisa31_plate_9_front</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装前后车牌 2 -->
+				<Item>
+					<modelName>nisa31_plate_9_front_rear</modelName>
+					<modShopLabel>nisa31_plate_9_front_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装后车牌 2 -->
+				<Item>
+					<modelName>nisa31_plate_9_rear</modelName>
+					<modShopLabel>nisa31_plate_9_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装前车牌 3 -->
+				<Item>
+					<modelName>nisa31_plate_10_front</modelName>
+					<modShopLabel>nisa31_plate_10_front</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装前后车牌 3 -->
+				<Item>
+					<modelName>nisa31_plate_10_front_rear</modelName>
+					<modShopLabel>nisa31_plate_10_front_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装后车牌 3 -->
+				<Item>
+					<modelName>nisa31_plate_10_rear</modelName>
+					<modShopLabel>nisa31_plate_10_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装前车牌 4 -->
+				<Item>
+					<modelName>nisa31_plate_11_front</modelName>
+					<modShopLabel>nisa31_plate_11_front</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装前后车牌 4 -->
+				<Item>
+					<modelName>nisa31_plate_11_front_rear</modelName>
+					<modShopLabel>nisa31_plate_11_front_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装后车牌 4 -->
+				<Item>
+					<modelName>nisa31_plate_11_rear</modelName>
+					<modShopLabel>nisa31_plate_11_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装前车牌 5 -->
+				<Item>
+					<modelName>nisa31_plate_12_front</modelName>
+					<modShopLabel>nisa31_plate_12_front</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装前后车牌 5 -->
+				<Item>
+					<modelName>nisa31_plate_12_front_rear</modelName>
+					<modShopLabel>nisa31_plate_12_front_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装后车牌 5 -->
+				<Item>
+					<modelName>nisa31_plate_12_rear</modelName>
+					<modShopLabel>nisa31_plate_12_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装前车牌 6 -->
+				<Item>
+					<modelName>nisa31_plate_13_front</modelName>
+					<modShopLabel>nisa31_plate_13_front</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装前后车牌 6 -->
+				<Item>
+					<modelName>nisa31_plate_13_front_rear</modelName>
+					<modShopLabel>nisa31_plate_13_front_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装后车牌 6 -->
+				<Item>
+					<modelName>nisa31_plate_13_rear</modelName>
+					<modShopLabel>nisa31_plate_13_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装前车牌 7 -->
+				<Item>
+					<modelName>nisa31_plate_14_front</modelName>
+					<modShopLabel>nisa31_plate_14_front</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装前后车牌 7 -->
+				<Item>
+					<modelName>nisa31_plate_14_front_rear</modelName>
+					<modShopLabel>nisa31_plate_14_front_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装后车牌 7 -->
+				<Item>
+					<modelName>nisa31_plate_14_rear</modelName>
+					<modShopLabel>nisa31_plate_14_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装前车牌 8 -->
+				<Item>
+					<modelName>nisa31_plate_15_front</modelName>
+					<modShopLabel>nisa31_plate_15_front</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装前后车牌 8 -->
+				<Item>
+					<modelName>nisa31_plate_15_front_rear</modelName>
+					<modShopLabel>nisa31_plate_15_front_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装后车牌 8 -->
+				<Item>
+					<modelName>nisa31_plate_15_rear</modelName>
+					<modShopLabel>nisa31_plate_15_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装前车牌 9 -->
+				<Item>
+					<modelName>nisa31_plate_16_front</modelName>
+					<modShopLabel>nisa31_plate_16_front</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装前后车牌 9 -->
+				<Item>
+					<modelName>nisa31_plate_16_front_rear</modelName>
+					<modShopLabel>nisa31_plate_16_front_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装后车牌 9 -->
+				<Item>
+					<modelName>nisa31_plate_16_rear</modelName>
+					<modShopLabel>nisa31_plate_16_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装前车牌 10 -->
+				<Item>
+					<modelName>nisa31_plate_17_front</modelName>
+					<modShopLabel>nisa31_plate_17_front</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装前后车牌 10 -->
+				<Item>
+					<modelName>nisa31_plate_17_front_rear</modelName>
+					<modShopLabel>nisa31_plate_17_front_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装后车牌 10 -->
+				<Item>
+					<modelName>nisa31_plate_17_rear</modelName>
+					<modShopLabel>nisa31_plate_17_rear</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 防滚架 -->
+				<Item>
+					<modelName>nisa31_rollcage_1</modelName>
+					<modShopLabel>nisa31_rollcage_1</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 一大堆座椅 -->
+				<Item>
+					<modelName>nisa31_seats_originalblue</modelName>
+					<modShopLabel>seats</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_g</Item>
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_seats_kevlarblue</modelName>
+					<modShopLabel>seats</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_g</Item>
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_seats_carbonblue</modelName>
+					<modShopLabel>seats</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_g</Item>
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_seats_originalred</modelName>
+					<modShopLabel>seats</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_g</Item>
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_seats_kevlarred</modelName>
+					<modShopLabel>seats</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_g</Item>
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_seats_carbonred</modelName>
+					<modShopLabel>seats</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_g</Item>
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_seats_originalblack1</modelName>
+					<modShopLabel>seats</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_g</Item>
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_seats_kevlarblack2</modelName>
+					<modShopLabel>seats</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_g</Item>
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_seats_carbonblack1</modelName>
+					<modShopLabel>seats</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_g</Item>
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_seats_maziorablack2</modelName>
+					<modShopLabel>seats</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_g</Item>
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_seats_originalblack2</modelName>
+					<modShopLabel>seats</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_g</Item>
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_seats_kevlarblack1</modelName>
+					<modShopLabel>seats</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_g</Item>
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_seats_carbonblack2</modelName>
+					<modShopLabel>seats</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_g</Item>
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_seats_maziorablack1</modelName>
+					<modShopLabel>seats</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_g</Item>
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_seats_bridelow_red</modelName>
+					<modShopLabel>seats</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_g</Item>
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_seats_bridelow_vertex</modelName>
+					<modShopLabel>seats</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_g</Item>
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_seats_bridelow_vertex2</modelName>
+					<modShopLabel>seats</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_g</Item>
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_seats_recaro_base</modelName>
+					<modShopLabel>seats</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_g</Item>
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_seats_recaro_hks</modelName>
+					<modShopLabel>seats</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_g</Item>
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_seats_recaro_pink</modelName>
+					<modShopLabel>seats</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_g</Item>
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_seats_thrash_black</modelName>
+					<modShopLabel>seats</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_g</Item>
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_seats_thrash_blue</modelName>
+					<modShopLabel>seats</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_g</Item>
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_seats_thrash_jaguar</modelName>
+					<modShopLabel>seats</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_g</Item>
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_seats_thrash_red</modelName>
+					<modShopLabel>seats</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_g</Item>
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_seats_thrash_yellow</modelName>
+					<modShopLabel>seats</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_g</Item>
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_seats_thrash_zebra</modelName>
+					<modShopLabel>seats</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_g</Item>
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 原装侧裙（风刀） -->
+				<Item>
+					<modelName>nisa31_skirt_1</modelName>
+					<modShopLabel>nisa31_skirt_1</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- D1GP 侧裙 -->
+				<Item>
+					<modelName>nisa31_skirt_2</modelName>
+					<modShopLabel>nisa31_skirt_2</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- D1GP 侧裙加风刀 -->
+				<Item>
+					<modelName>nisa31_skirt_2</modelName>
+					<modShopLabel>nisa31_skirt_2</modShopLabel>
+					<linkedModels>
+						<Item>nisa31_skirt_1</Item>
+					</linkedModels>
+					<turnOffBones />
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 素车侧裙 -->
+				<Item>
+					<modelName>nisa31_skirt_3</modelName>
+					<modShopLabel>nisa31_skirt_3</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 加长侧裙 -->
+				<Item>
+					<modelName>nisa31_skirt_4</modelName>
+					<modShopLabel>nisa31_skirt_4</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- Diana 侧裙 -->
+				<Item>
+					<modelName>nisa31_skirt_5</modelName>
+					<modShopLabel>nisa31_skirt_5</modShopLabel>
+					<linkedModels>
+						<Item>nisa31_dpanel_lf_01</Item>
+						<Item>nisa31_dpanel_rf_01</Item>
+						<Item>nisa31_dpanel_lr_01</Item>
+						<Item>nisa31_dpanel_rr_01</Item>
+					</linkedModels>
+					<turnOffBones />
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装侧裙 1 -->
+				<Item>
+					<modelName>nisa31_skirt_6</modelName>
+					<modShopLabel>nisa31_skirt_6</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装侧裙 2 -->
+				<Item>
+					<modelName>nisa31_skirt_7</modelName>
+					<modShopLabel>nisa31_skirt_7</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装侧裙 8 -->
+				<Item>
+					<modelName>nisa31_skirt_8</modelName>
+					<modShopLabel>nisa31_skirt_8</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 改装侧裙 9 -->
+				<Item>
+					<modelName>nisa31_skirt_9</modelName>
+					<modShopLabel>nisa31_skirt_9</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 一大堆尾翼 -->
+				<Item>
+					<modelName>nisa31_spoiler_1</modelName>
+					<modShopLabel>SULTAN_WING1</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_spoiler_2</modelName>
+					<modShopLabel>SULTAN_WING2</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_2</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_spoiler_3</modelName>
+					<modShopLabel>SULTAN_WING3</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>bumper_r</Item>
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_3</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_spoiler_4</modelName>
+					<modShopLabel>SULTAN_WING3</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_4</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_spoiler_5</modelName>
+					<modShopLabel>SULTAN_WING3</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_4</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_spoiler_6</modelName>
+					<modShopLabel>SULTAN_WING4</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_4</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_spoiler_7</modelName>
+					<modShopLabel>SULTAN_WING4</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_4</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_spoiler_8</modelName>
+					<modShopLabel>SULTAN_WING4</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_4</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_spoiler_9</modelName>
+					<modShopLabel>SULTAN_WING4</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_4</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_spoiler_10</modelName>
+					<modShopLabel>SULTAN_WING4</modShopLabel>
+					<linkedModels>
+						<Item>nisa31_spoiler_10_part</Item>
+					</linkedModels>
+					<turnOffBones />
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_4</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 引擎盖 -->
+				<Item>
+					<modelName>nisa31_bonnet_01</modelName>
+					<modShopLabel>nisa31_bonnet_01</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>bonnet</Item>
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_bonnet_02</modelName>
+					<modShopLabel>nisa31_bonnet_02</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>bonnet</Item>
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_bonnet_03</modelName>
+					<modShopLabel>nisa31_bonnet_03</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>bonnet</Item>
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 进气口 -->
+				<Item>
+					<modelName>nisa31_grill_01</modelName>
+					<modShopLabel>nisa31_grill_01</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_c</Item>
+					</turnOffBones>
+					<type>VMT_GRILL</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_grill_02</modelName>
+					<modShopLabel>nisa31_grill_02</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_c</Item>
+					</turnOffBones>
+					<type>VMT_GRILL</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_grill_03</modelName>
+					<modShopLabel>nisa31_grill_03</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_c</Item>
+					</turnOffBones>
+					<type>VMT_GRILL</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_grill_04</modelName>
+					<modShopLabel>nisa31_grill_04</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_c</Item>
+					</turnOffBones>
+					<type>VMT_GRILL</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_grill_05</modelName>
+					<modShopLabel>nisa31_grill_05</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_c</Item>
+					</turnOffBones>
+					<type>VMT_GRILL</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 头灯 -->
+				<Item>
+					<modelName>nisa31_headlight_01</modelName>
+					<modShopLabel>nisa31_headlight_01</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_b</Item>
+					</turnOffBones>
+					<type>VMT_CHASSIS2</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 牌照架 1 -->
+				<Item>
+					<modelName>nisa31_plate_holder_01</modelName>
+					<modShopLabel>nisa31_plate_holder_01</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTVANITY</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 牌照架 2 -->
+				<Item>
+					<modelName>nisa31_plate_holder_02</modelName>
+					<modShopLabel>nisa31_plate_holder_02</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTVANITY</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 牌照架 3 -->
+				<Item>
+					<modelName>nisa31_plate_holder_03</modelName>
+					<modShopLabel>nisa31_plate_holder_03</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTVANITY</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 牌照架 4 -->
+				<Item>
+					<modelName>nisa31_plate_holder_04</modelName>
+					<modShopLabel>nisa31_plate_holder_04</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLTVANITY</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 角灯 -->
+				<Item>
+					<modelName>nisa31_sidelight_01</modelName>
+					<modShopLabel>nisa31_sidelight_01</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_PLAQUE</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 天窗 1 -->
+				<Item>
+					<modelName>nisa31_sunroof_01</modelName>
+					<modShopLabel>nisa31_sunroof_01</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_v</Item>
+					</turnOffBones>
+					<type>VMT_ROOF</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 天窗 2 -->
+				<Item>
+					<modelName>nisa31_sunroof_02</modelName>
+					<modShopLabel>nisa31_sunroof_02</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_v</Item>
+					</turnOffBones>
+					<type>VMT_ROOF</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 尾灯 1 -->
+				<Item>
+					<modelName>nisa31_taillight_01</modelName>
+					<modShopLabel>nisa31_taillight_01</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_f</Item>
+					</turnOffBones>
+					<type>VMT_TRUNK</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 尾灯 2 -->
+				<Item>
+					<modelName>nisa31_taillight_02</modelName>
+					<modShopLabel>nisa31_taillight_02</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_f</Item>
+					</turnOffBones>
+					<type>VMT_TRUNK</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 高位刹车灯 -->
+				<Item>
+					<modelName>nisa31_brakelight_01</modelName>
+					<modShopLabel>nisa31_brakelight_01</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_ICE</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 的士灯 -->
+				<Item>
+					<modelName>nisa31_brakelight_02</modelName>
+					<modShopLabel>nisa31_brakelight_02</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_ICE</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 宽体 -->
+				<Item>
+					<modelName>nisa31_widebody_01</modelName>
+					<modShopLabel>nisa31_widebody_01</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_WING_L</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 前翼子板 1 -->
+				<Item>
+					<modelName>nisa31_wing_f1</modelName>
+					<modShopLabel>nisa31_wing_f1</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_d</Item>
+					</turnOffBones>
+					<type>VMT_WING_L</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 前翼子板 2 -->
+				<Item>
+					<modelName>nisa31_wing_f2</modelName>
+					<modShopLabel>nisa31_wing_f2</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_d</Item>
+					</turnOffBones>
+					<type>VMT_WING_L</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 一堆方向盘 -->
+				<Item>
+					<modelName>nisa31_steer_moco_midship</modelName>
+					<modShopLabel>nisa31_steer_moco_midship</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>steeringwheel</Item>
+					</turnOffBones>
+					<type>VMT_STEERING</type>
+					<bone>steeringwheel</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_steer_tsubaki</modelName>
+					<modShopLabel>nisa31_steer_tsubaki</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>steeringwheel</Item>
+					</turnOffBones>
+					<type>VMT_STEERING</type>
+					<bone>steeringwheel</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_steer_vertex2</modelName>
+					<modShopLabel>nisa31_steer_vertex2</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>steeringwheel</Item>
+					</turnOffBones>
+					<type>VMT_STEERING</type>
+					<bone>steeringwheel</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_steer_vertex3</modelName>
+					<modShopLabel>nisa31_steer_vertex3</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>steeringwheel</Item>
+					</turnOffBones>
+					<type>VMT_STEERING</type>
+					<bone>steeringwheel</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_steer_vertex4</modelName>
+					<modShopLabel>nisa31_steer_vertex4</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>steeringwheel</Item>
+					</turnOffBones>
+					<type>VMT_STEERING</type>
+					<bone>steeringwheel</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_steer_vertex5</modelName>
+					<modShopLabel>nisa31_steer_vertex5</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>steeringwheel</Item>
+					</turnOffBones>
+					<type>VMT_STEERING</type>
+					<bone>steeringwheel</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_steer_vertex6</modelName>
+					<modShopLabel>nisa31_steer_vertex6</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>steeringwheel</Item>
+					</turnOffBones>
+					<type>VMT_STEERING</type>
+					<bone>steeringwheel</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_steer_vertex7</modelName>
+					<modShopLabel>nisa31_steer_vertex7</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>steeringwheel</Item>
+					</turnOffBones>
+					<type>VMT_STEERING</type>
+					<bone>steeringwheel</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 地毯 -->
+				<Item>
+					<modelName>nisa31_carpet_red</modelName>
+					<modShopLabel>nisa31_carpet_red</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_INTERIOR3</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_carpet_green</modelName>
+					<modShopLabel>nisa31_carpet_green</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_INTERIOR3</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_carpet_blue</modelName>
+					<modShopLabel>nisa31_carpet_blue</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_INTERIOR3</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_carpet_lightblue</modelName>
+					<modShopLabel>nisa31_carpet_lightblue</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_INTERIOR3</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_carpet_purple</modelName>
+					<modShopLabel>nisa31_carpet_purple</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_INTERIOR3</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_carpet_white</modelName>
+					<modShopLabel>nisa31_carpet_white</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_INTERIOR3</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>nisa31_carpet_yellow</modelName>
+					<modShopLabel>nisa31_carpet_yellow</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_INTERIOR3</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<!-- 窗户涂装 -->
+				<Item>
+					<modelName>nisa31_window_livery_01</modelName>
+					<modShopLabel>nisa31_window_livery_01</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_INTERIOR5</type>
+					<bone>chassis</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+			</visibleMods>
+			<linkMods>
+				<Item>
+					<modelName>nisa31_skirt_1</modelName>
+					<bone>chassis</bone>
+					<turnOffExtra value="false" />
+				</Item>
+				<Item>
+					<modelName>nisa31_lips_front_01</modelName>
+					<bone>chassis</bone>
+					<turnOffExtra value="false" />
+				</Item>
+				<Item>
+					<modelName>nisa31_lips_front_02</modelName>
+					<bone>chassis</bone>
+					<turnOffExtra value="false" />
+				</Item>
+				<Item>
+					<modelName>nisa31_lips_front_03</modelName>
+					<bone>chassis</bone>
+					<turnOffExtra value="false" />
+				</Item>
+				<Item>
+					<modelName>nisa31_dash_parts_1</modelName>
+					<bone>chassis</bone>
+					<turnOffExtra value="false" />
+				</Item>
+				<Item>
+					<modelName>nisa31_spoiler_10_part</modelName>
+					<bone>chassis</bone>
+					<turnOffExtra value="false" />
+				</Item>
+				<Item>
+					<modelName>nisa31_dpanel_lf_01</modelName>
+					<bone>door_dside_f</bone>
+					<turnOffExtra value="false" />
+				</Item>
+				<Item>
+					<modelName>nisa31_dpanel_rf_01</modelName>
+					<bone>door_pside_f</bone>
+					<turnOffExtra value="false" />
+				</Item>
+				<Item>
+					<modelName>nisa31_dpanel_lr_01</modelName>
+					<bone>door_dside_r</bone>
+					<turnOffExtra value="false" />
+				</Item>
+				<Item>
+					<modelName>nisa31_dpanel_rr_01</modelName>
+					<bone>door_pside_r</bone>
+					<turnOffExtra value="false" />
+				</Item>
+			</linkMods>
+			<statMods>
+				<Item>
+					<identifier />
+					<modifier value="100" />
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<type>VMT_ENGINE</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="150" />
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<type>VMT_ENGINE</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="230" />
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<type>VMT_ENGINE</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="280" />
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<type>VMT_ENGINE</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="25" />
+					<audioApply value="1.000000" />
+					<weight value="5" />
+					<type>VMT_BRAKES</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="50" />
+					<audioApply value="1.000000" />
+					<weight value="5" />
+					<type>VMT_BRAKES</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="100" />
+					<audioApply value="1.000000" />
+					<weight value="5" />
+					<type>VMT_BRAKES</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="25" />
+					<audioApply value="1.000000" />
+					<weight value="5" />
+					<type>VMT_GEARBOX</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="50" />
+					<audioApply value="1.000000" />
+					<weight value="5" />
+					<type>VMT_GEARBOX</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="100" />
+					<audioApply value="1.000000" />
+					<weight value="5" />
+					<type>VMT_GEARBOX</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="20" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_ARMOUR</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="40" />
+					<audioApply value="1.000000" />
+					<weight value="10" />
+					<type>VMT_ARMOUR</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="60" />
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<type>VMT_ARMOUR</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="80" />
+					<audioApply value="1.000000" />
+					<weight value="30" />
+					<type>VMT_ARMOUR</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="100" />
+					<audioApply value="1.000000" />
+					<weight value="40" />
+					<type>VMT_ARMOUR</type>
+				</Item>
+				<Item>
+					<identifier>HORN_TRUCK</identifier>
+					<modifier value="1766676233" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HORN_COP</identifier>
+					<modifier value="2904189469" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HORN_CLOWN</identifier>
+					<modifier value="2543206147" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HORN_MUSICAL_1</identifier>
+					<modifier value="1732399718" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HORN_MUSICAL_2</identifier>
+					<modifier value="2046162893" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HORN_MUSICAL_3</identifier>
+					<modifier value="2194999691" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HORN_MUSICAL_4</identifier>
+					<modifier value="2508304100" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HORN_MUSICAL_5</identifier>
+					<modifier value="3707223535" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HORN_SAD_TROMBONE</identifier>
+					<modifier value="632950117" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+					<modifier value="3628534289" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+					<modifier value="3892554122" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+					<modifier value="4112892878" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+					<modifier value="116877169" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+					<modifier value="2684983719" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+					<modifier value="2982690084" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+					<modifier value="3203290992" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+					<modifier value="771284519" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+					<modifier value="2586621229" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+					<modifier value="283386134" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+					<modifier value="3884502400" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+					<modifier value="265723083" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+					<modifier value="1746883687" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+					<modifier value="1919870950" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+					<modifier value="1085277077" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HIPSTER_HORN_1</identifier>
+					<modifier value="444549672" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HIPSTER_HORN_2</identifier>
+					<modifier value="1603064898" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HIPSTER_HORN_3</identifier>
+					<modifier value="240366033" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HIPSTER_HORN_4</identifier>
+					<modifier value="960137118" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>INDEP_HORN_1</identifier>
+					<modifier value="3572144790" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>INDEP_HORN_2</identifier>
+					<modifier value="3801396714" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>INDEP_HORN_3</identifier>
+					<modifier value="2843657151" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>INDEP_HORN_4</identifier>
+					<modifier value="3341811489" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>LUXE_HORN_1</identifier>
+					<modifier value="3199657341" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>LUXE_HORN_2</identifier>
+					<modifier value="2900378064" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>LUXE_HORN_3</identifier>
+					<modifier value="3956195248" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+				<Item>
+					<identifier>LUXORY_HORN_1</identifier>
+					<modifier value="676333254" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+				<Item>
+					<identifier>LUXURY_HORN_2</identifier>
+					<modifier value="2099578296" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+				<Item>
+					<identifier>LUXURY_HORN_3</identifier>
+					<modifier value="1373384483" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>ORGAN_HORN_LOOP_01</identifier>
+					<modifier value="2916775806" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+				<Item>
+					<identifier>ORGAN_HORN_LOOP_01_PREVIEW</identifier>
+					<modifier value="3714706952" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>ORGAN_HORN_LOOP_02</identifier>
+					<modifier value="2611860261" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+				<Item>
+					<identifier>ORGAN_HORN_LOOP_02_PREVIEW</identifier>
+					<modifier value="3206770359" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>LOWRIDER_HORN_1</identifier>
+					<modifier value="310529291" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+				<Item>
+					<identifier>LOWRIDER_HORN_1_PREVIEW</identifier>
+					<modifier value="2965568987" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>LOWRIDER_HORN_2</identifier>
+					<modifier value="55291550" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+				<Item>
+					<identifier>LOWRIDER_HORN_2_PREVIEW</identifier>
+					<modifier value="965054819" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="20" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_SUSPENSION</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="40" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_SUSPENSION</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="60" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_SUSPENSION</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="80" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_SUSPENSION</type>
+				</Item>
+				<!--<Item>
+					<identifier />
+					<modifier value="0" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_WHEELS_REAR_OR_HYDRAULICS</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="1" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_WHEELS_REAR_OR_HYDRAULICS</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="0" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_WHEELS_REAR_OR_HYDRAULICS</type>
+				</Item>
+				<Item>
+					<identifier />
+					<modifier value="1" />
+					<audioApply value="1.000000" />
+					<weight value="0" />
+					<type>VMT_WHEELS_REAR_OR_HYDRAULICS</type>
+				</Item>-->
+			</statMods>
+			<slotNames />
+			<liveryNames />
+		</Item>
+	</Kits>
+	<Lights />
+</CVehicleModelInfoVarGlobal>
